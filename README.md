@@ -6,7 +6,7 @@
 
 - 🎥 **Demo video (≤5 min):** https://youtu.be/I2JscSfypwA
 - 📊 **Presentation deck:** https://docs.google.com/presentation/d/1lNnXYb1A-2QiPLKy8k720E8yAalQID59/edit?usp=sharing
-- 💻 **Repository:** https://github.com/rahulaachaaaaa/rti-sahayak
+- 💻 **Repository:** https://github.com/rahulauto7/rti-sahayak
 
 ## Project Description
 
